@@ -1,0 +1,1 @@
+The Firebase Realtime Database throws a `FirebaseError: Database.ServerValue.TIMESTAMP is not a valid data type.` error when trying to use `ServerValue.TIMESTAMP` to store the current server timestamp in a database path containing special characters such as periods (.).
